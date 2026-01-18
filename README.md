@@ -1,6 +1,7 @@
 # Proyecto POO en Python
 
 Este proyecto demuestra el uso de Programación Orientada a Objetos en Python.
+# Autora: Jenny Manzano
 
 ## Conceptos aplicados
 - Clases y objetos
